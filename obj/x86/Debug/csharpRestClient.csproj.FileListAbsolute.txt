@@ -1,0 +1,7 @@
+c:\users\admin\documents\visual studio 2010\Projects\csharpRestClient\csharpRestClient\obj\x86\Debug\csharpRestClient.Form1.resources
+c:\users\admin\documents\visual studio 2010\Projects\csharpRestClient\csharpRestClient\obj\x86\Debug\csharpRestClient.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2010\Projects\csharpRestClient\csharpRestClient\obj\x86\Debug\csharpRestClient.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2010\Projects\csharpRestClient\csharpRestClient\bin\Debug\csharpRestClient.exe
+c:\users\admin\documents\visual studio 2010\Projects\csharpRestClient\csharpRestClient\bin\Debug\csharpRestClient.pdb
+c:\users\admin\documents\visual studio 2010\Projects\csharpRestClient\csharpRestClient\obj\x86\Debug\csharpRestClient.exe
+c:\users\admin\documents\visual studio 2010\Projects\csharpRestClient\csharpRestClient\obj\x86\Debug\csharpRestClient.pdb
